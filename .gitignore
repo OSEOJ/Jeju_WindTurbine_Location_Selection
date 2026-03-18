@@ -1,6 +1,9 @@
 # Input data (large raw files)
 input/
 
+# Large output files
+output/jeju_grid_scored.csv
+
 # Report files
 *.hwp
 *.pdf
