@@ -22,7 +22,9 @@
 
 분석 결과, 고잠재력 지역(score ≥ 0.66)은 **해안가와 중산간 지역**에 군집을 이루며 분포하였다. 기존 발전단지 위치와 높은 공간적 일치도를 보여 모델의 유효성을 실증하였고, 중산간 지역과 서귀포 동부 일부는 기존 발전소가 없음에도 높은 잠재력을 보여 신규 후보지로서의 가능성을 확인하였다.
 
-[![Jeju Wind Farm Map](output/jeju_wind_turbine_map.png)](https://htmlpreview.github.io/?https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection/blob/main/output/jeju_wind_turbine_map.html)
+<a href="https://htmlpreview.github.io/?https://github.com/OSEOJ/Jeju_WindTurbine_Location_Selection/blob/main/output/jeju_wind_turbine_map.html">
+  <img src="output/jeju_wind_turbine_map.png" width="75%"/>
+</a>
 
 ---
 
