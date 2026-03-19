@@ -2,7 +2,7 @@
 
 # Jeju Wind Turbine Location Selection
 
-**AHP 방법론을 활용한<br>제주도 풍력발전단지 잠재입지 도출**
+**AHP 방법론을 활용한 제주도 풍력발전단지 잠재입지 도출**
 
 **조영서 · 김현지 · 정민영 · 최우영**
 
